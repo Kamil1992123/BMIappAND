@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMIapp</string>
+    <string name="sgive_details">Podaj dane:</string>
+    <string name="sheight">Wzrost[cm]:</string>
+    <string name="sweight">Waga[kg]:</string>
+    <string name="sbuttonOK">Oblicz</string>
+    <string name="sshow_result">Twoje BMI to:</string>
+</resources>
